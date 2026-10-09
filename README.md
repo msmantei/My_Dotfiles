@@ -15,9 +15,9 @@ Printer Service: YES
 Timzone, Keyboard Layout, User Account, Passwords are your choice.
 
 *Pacman Stuff*:
-kitty dolphin firefox dunst xdg-desktop-portal-hyprland wl-clipboard git --needed btop curl vim nano vlc audacity blank*et
+kitty dolphin firefox dunst xdg-desktop-portal-hyprland wl-clipboard git --needed btop curl vim nano vlc audacity blanket
 
-Github Stuff*:
+*Github Stuff*:
 paru
 
 *AUR Stuff*:
